@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+collections_dir: collections
+collections:
+  year1:
+    output: true
+  hhd1:
+    output: true
+    permalink: /:collection/:name
+  hhd2:
+    output: true
+  hhd3:
+    output: true
+  hhd4:
+    output: true
+  hhd5:
+    output: true
